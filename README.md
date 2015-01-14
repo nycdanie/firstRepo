@@ -1,2 +1,2 @@
 # firstRepo
-Thanks this is the very first Repo.
+Thanks this is the very first Repo. Nothing is funnier.
